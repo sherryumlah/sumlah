@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e6af5eb36db6874dd8f49146c8c987e",
+    "revision": "00faf3624fc5f1d334fcfb78ac67c7b5",
     "url": "/sherryumlah/sumlah.git/index.html"
   },
   {
-    "revision": "bf1803005fb4ad10a0c8",
+    "revision": "495710cf6b160c29111e",
     "url": "/sherryumlah/sumlah.git/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sherryumlah/sumlah.git/static/js/2.1e371a11.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf1803005fb4ad10a0c8",
-    "url": "/sherryumlah/sumlah.git/static/js/main.a81b45bd.chunk.js"
+    "revision": "495710cf6b160c29111e",
+    "url": "/sherryumlah/sumlah.git/static/js/main.5e905bbd.chunk.js"
   },
   {
     "revision": "ebb6c84d18afea439b7b",

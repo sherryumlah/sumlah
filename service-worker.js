@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sherryumlah/sumlah.git/precache-manifest.42bdef792722df42591c19fe6655e10c.js"
+  "/sherryumlah/sumlah.git/precache-manifest.8e0cae2584e717d6f2a3fa62e847a1a7.js"
 );
 
 self.addEventListener('message', (event) => {
