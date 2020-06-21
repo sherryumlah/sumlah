@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sherryumlah/sumlah.git/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/sherryumlah/sumlah.git/static/js/main.5e905bbd.chunk.js",
-    "main.js.map": "/sherryumlah/sumlah.git/static/js/main.5e905bbd.chunk.js.map",
-    "runtime-main.js": "/sherryumlah/sumlah.git/static/js/runtime-main.323fb97d.js",
-    "runtime-main.js.map": "/sherryumlah/sumlah.git/static/js/runtime-main.323fb97d.js.map",
-    "static/js/2.1e371a11.chunk.js": "/sherryumlah/sumlah.git/static/js/2.1e371a11.chunk.js",
-    "static/js/2.1e371a11.chunk.js.map": "/sherryumlah/sumlah.git/static/js/2.1e371a11.chunk.js.map",
-    "index.html": "/sherryumlah/sumlah.git/index.html",
-    "precache-manifest.8e0cae2584e717d6f2a3fa62e847a1a7.js": "/sherryumlah/sumlah.git/precache-manifest.8e0cae2584e717d6f2a3fa62e847a1a7.js",
-    "service-worker.js": "/sherryumlah/sumlah.git/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/sherryumlah/sumlah.git/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.1e371a11.chunk.js.LICENSE.txt": "/sherryumlah/sumlah.git/static/js/2.1e371a11.chunk.js.LICENSE.txt"
+    "main.css": "/sumlah/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/sumlah/static/js/main.5e905bbd.chunk.js",
+    "main.js.map": "/sumlah/static/js/main.5e905bbd.chunk.js.map",
+    "runtime-main.js": "/sumlah/static/js/runtime-main.0a18dcf7.js",
+    "runtime-main.js.map": "/sumlah/static/js/runtime-main.0a18dcf7.js.map",
+    "static/js/2.1e371a11.chunk.js": "/sumlah/static/js/2.1e371a11.chunk.js",
+    "static/js/2.1e371a11.chunk.js.map": "/sumlah/static/js/2.1e371a11.chunk.js.map",
+    "index.html": "/sumlah/index.html",
+    "precache-manifest.0cf03e3666184fe0961d9cb9807adadf.js": "/sumlah/precache-manifest.0cf03e3666184fe0961d9cb9807adadf.js",
+    "service-worker.js": "/sumlah/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/sumlah/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1e371a11.chunk.js.LICENSE.txt": "/sumlah/static/js/2.1e371a11.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.323fb97d.js",
+    "static/js/runtime-main.0a18dcf7.js",
     "static/js/2.1e371a11.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
     "static/js/main.5e905bbd.chunk.js"
