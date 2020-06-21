@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sherryumlah/sumlah.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sherryumlah/sumlah.git/static/js/main.af7365c2.chunk.js",
+    "main.js.map": "/sherryumlah/sumlah.git/static/js/main.af7365c2.chunk.js.map",
+    "runtime-main.js": "/sherryumlah/sumlah.git/static/js/runtime-main.323fb97d.js",
+    "runtime-main.js.map": "/sherryumlah/sumlah.git/static/js/runtime-main.323fb97d.js.map",
+    "static/js/2.fc08bc91.chunk.js": "/sherryumlah/sumlah.git/static/js/2.fc08bc91.chunk.js",
+    "static/js/2.fc08bc91.chunk.js.map": "/sherryumlah/sumlah.git/static/js/2.fc08bc91.chunk.js.map",
+    "index.html": "/sherryumlah/sumlah.git/index.html",
+    "precache-manifest.4d489cd89c5351f1cf0fd927195567f0.js": "/sherryumlah/sumlah.git/precache-manifest.4d489cd89c5351f1cf0fd927195567f0.js",
+    "service-worker.js": "/sherryumlah/sumlah.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sherryumlah/sumlah.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fc08bc91.chunk.js.LICENSE.txt": "/sherryumlah/sumlah.git/static/js/2.fc08bc91.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sherryumlah/sumlah.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.323fb97d.js",
+    "static/js/2.fc08bc91.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.af7365c2.chunk.js"
+  ]
+}
